@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation for securing the kingdom against an invasion designed from France</title>
+            <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05683</idno>
+            <idno type="STC">Wing S1910</idno>
+            <idno type="STC">ESTC R183539</idno>
+            <idno type="EEBO-CITATION">51784663</idno>
+            <idno type="OCLC">ocm 51784663</idno>
+            <idno type="VID">175067</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05683)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175067)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2711:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation for securing the kingdom against an invasion designed from France</title>
+                  <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heirs and successors of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>Anno Dom. 1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette; initial letter.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>National security --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Military --  1603-1714 --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  France --  Early works to 1800.</term>
+               <term>France --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:175067:1" rendition="simple:additions"/>
+            <pb facs="tcp:175067:1" rendition="simple:additions"/>
+            <pb facs="tcp:175067:2"/>
+            <pb facs="tcp:175067:2" rendition="simple:additions"/>
+            <pb facs="tcp:175067:3"/>
+            <pb facs="tcp:175067:3" rendition="simple:additions"/>
+            <head>A PROCLAMATION <hi>For Securing the Kingdom againſt an Invaſion deſigned from</hi> France.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>ILLIAM</hi> by the Grace of GOD, King of <hi>Great-Britain, France</hi> and <hi>Ireland,</hi> Defender of the Faith, To <gap reason="blank" extent="1 line">
+                  <desc>〈1 line left blank〉</desc>
+               </gap> Macers of Our Privy Council, Meſſengers at Arms, Our Sheriffs in that Part, conjunctly and ſeverally, ſpecially Conſtitute, Greeting: Whereas the merciful Providence of GOD to Us, and Our Kingdoms, hath diſcovered a moſt wicked &amp; Horrid Conſpiracy to Aſſaſſinat Our Royal Perſon, which was deſigned to have been Acted before an Invaſion, which is intended from <hi>France,</hi> for the Ruining Our Religion, and all that is dear to Our Good Subjects; We with Advice of the Lords of Our Privy Council have thought fit, upon this Occaſion to Require, Likeways We hereby do Require all Our loving Subjects to be in a Readineſs, as they ſhall receive Orders from Our Pri<g ref="char:EOLhyphen"/>vy Council, with their beſt Horſes and Arms, to defend againſt any ſuch Horrid Invaſion from <hi>France,</hi> and againſt the Attempts which may be made by Enemies, or evil affected Perſons at Home: And hereby require all Our loving Subjects, eſpecially Our Magi<g ref="char:EOLhyphen"/>ſtrats, Juſtices of Peace, Collectors at Our ſeveral Sea-Ports, and upon the Borders, to Stop and Seize all Perſons coming into this Our Antient Kingdom, who have not ſufficient Paſſes under one of the Secretaries of State for either of the Kingdoms of <hi>Scotland</hi> or <hi>England,</hi> or under the Lieutennant of <hi>Ireland</hi> their Hands. And farder, do hereby require all Our loving Subjects to take ſpecial Not<g ref="char:EOLhyphen"/>ice of any Perſons diſaffected to <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ur Government, their keeping Meetings, and that they Diſcover the ſame time<g ref="char:EOLhyphen"/>ouſly to ſome of Our Privy <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ncil, or the next Magiſtrate of the Place, that the ſaids Perſons may be ſecured and Proceeded againſt, as Perſons Deſigning to Diſturb the Peace and Quiet of Our Government. And We with Advice foreſaid, Do hereby Require and Command all Our Sheriffs and their Deputs, to Seize all the Horſes above an Hundred Merks Price, and all ſort of Arms more than a Walking Sword, of ſuch Perſons who are obliged by the ſixth Act of the fourth Seſſion of this Our cur<g ref="char:EOLhyphen"/>rent Parliament, to have Sworn and Signed the Oath of Allegiance with the Aſſurance, and who have not Sworn and Signed the ſame: And Appoints and Ordains the Magiſtrats of all the Towns upon the Sea Coaſts of this Kingdom, upon the firſt Sight of any Number of Ships Approaching Our Coaſt; that they, by putting on Fires and Beacons, Advertiſe all Our Leidges thereof: And that they likewiſe Advertiſe Our Privy Council of the ſame, by ſending Expreſſes. OUR WILL IS HEREFORE, and We Charge you ſtrictly, and Command, that incontinent theſe Our Letters ſeen, ye paſs to the Mercat-Croſs of <hi>Edinburgh,</hi> and to the remanent Mercat-Croſſes of the haill Head-Burghs of the ſeveral Shires and Stewartries within this Our antient Kingdom, and there in Our Name and Authority, make publick Intimation of the Premiſſes, that none pretend Ignorance. And Ordains theſe Pre<g ref="char:EOLhyphen"/>ſents to be Printed.</p>
+            <closer>
+               <dateline>
+                  <hi>Given under Our Signet at</hi> Edinburgh, <hi>the twenty ninth day of</hi> 
+                  <date>February, <hi>And of Our Reign the ſeventh Year,</hi> 1696.</date>
+               </dateline>
+               <signed>
+                  <hi>Per Actum Dominorum Secreti Concilii.</hi> GILB. ELIOT, <hi>Cls. Sti. Concili.</hi>
+               </signed>
+            </closer>
+            <closer>God Save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heirs and Succeſſors of <hi>Andrew Anderſon,</hi> Printer to His Moſt Excellent Majeſty, <hi>Anno DOM.</hi> 1696.</p>
+            <pb facs="tcp:175067:4"/>
+            <pb facs="tcp:175067:4"/>
+            <pb facs="tcp:175067:5"/>
+            <pb facs="tcp:175067:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
